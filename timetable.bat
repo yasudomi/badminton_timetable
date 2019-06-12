@@ -1,0 +1,2 @@
+python timetable.py
+pause
